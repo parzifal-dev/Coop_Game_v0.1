@@ -1,1 +1,1 @@
-# Coop_Game
+A cozy yet chaotic co-op survival game about the perfect outdoor getaway. You and your friends have one simple goal: prepare the ultimate BBQ spot before the guests arrive. But beware — the local wildlife has its own plans for your dinner!
